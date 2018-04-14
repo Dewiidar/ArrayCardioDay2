@@ -1,4 +1,4 @@
-# 04 - Array Cardio Day 1 - JavaScript30 Challenge
+# 07 - Array Cardio Day 2 - JavaScript30 Challenge
 
 ### Practising: 
 Array.prototype.some(),
